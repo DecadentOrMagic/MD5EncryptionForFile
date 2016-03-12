@@ -3,7 +3,7 @@
 //  MD5_EncryptionForFile
 //
 //  Created by 薛尧 on 15/6/15.
-//  Copyright © 2016年 薛尧. All rights reserved.
+//  Copyright © 2015年 薛尧. All rights reserved.
 //
 
 #import "AppDelegate.h"
